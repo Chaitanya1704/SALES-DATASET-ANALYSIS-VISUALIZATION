@@ -23,7 +23,7 @@ This project is a complete Sales Data Analytics Dashboard developed using SQL, E
 
 
  Dashboard Preview
-![Sales Dashboard](DashBoard)
+![Sales Dashboard]([DashBoard](https://github.com/Chaitanya1704/SALES-DATASET-ANALYSIS-VISUALIZATION/blob/master/SCREENSHOTS/Power%20BI%20Dashboard/DashBoard.png))
 
 
 
